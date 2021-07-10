@@ -1,7 +1,7 @@
 <h1 align="center">Hello!! <img src="icons/wave.gif" alt="waving hand" width="30px">I'm Unnati Daimiwal 🎯️🚀️</h1>
 
 </br>
-<img align="right" " width="450" height="390" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" " width="450"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 Strong willingness and urge to learn new things and latest technology, to work for my career growth and better prospects, which contribute to the productivity and profitability of the organization. Have been proactive and focused as a student. Having creative mindset to develop things in productive manner.
