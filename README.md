@@ -28,7 +28,7 @@ Strong willingness and urge to learn new things and latest technology, to work f
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:**
 
 <p align="center">
-<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="unnatidaimiwal" /></a>
+<a href="https://www.linkedin.com/in/unnatidaimiwal/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="unnatidaimiwal" /></a>
 <a href="https://github.com/unnatidaimiwal" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="unnatidaimiwal" /></a>
 <a href="https://twitter.com/#" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="unnatidaimiwal" /></a>
 <a href="mailto:unnati.umd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="unnatidaimiwal" /></a>
